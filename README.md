@@ -22,7 +22,7 @@ Detail Artikel
 Artikel Terkait
 Langkah Menjalankan Aplikasi Secara Lokal
 1. Clone Repository
-git clone https://github.com/USERNAME/aplikasi-blog-[NIM].git
+git clone https://github.com/USERNAME/aplikasi-blog-240605110092.git
 2. Masuk ke Folder Project
 cd aplikasi-blog-[NIM]
 3. Install Dependency
